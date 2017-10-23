@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_Minhaconta"
+            android:icon="@mipmap/ic_account_circle_black_24dp"
+            android:title="Minha conta" />
+        <item
+            android:id="@+id/nav_Meuprogresso"
+            android:icon="@mipmap/ic_trending_up_black_24dp"
+            android:title="Meu progresso" />
+        <item
+            android:id="@+id/nav_Suporte"
+            android:icon="@mipmap/ic_feedback_black_24dp"
+            android:title="Suporte" />
+    </group>
+
+    <item android:title="Options">
+
+        <menu>
+            <item
+                android:id="@+id/nav_Logout"
+                android:icon="@mipmap/ic_exit_to_app_black_24dp"
+                android:title="Log out" />
+        </menu>
+    </item>
+
+</menu>

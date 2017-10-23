@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">GuiaApp</string>
+    <string name="lbl_InsiraEmail">Insira seu E-mail</string>
+    <string name="lbl_InsiraSenha">Insira sua senha</string>
+    <string name="lbl_login">Login</string>
+    <string name="lbl_cadastrar">Cadastrar</string>
+    <string name="lbl_Email">E-mail</string>
+    <string name="lbl_nome">Nome</string>
+    <string name="lbl_insiraNome">Insira seu nome</string>
+    <string name="lbl_ConfirmSenha">Confirme sua senha</string>
+    <string name="lbl_Senha">Senha</string>
+    <string name="title_conteudo">Conteúdos</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_temas">Temas</string>
+    <string name="lbl_bit">Minha Conta</string>
+    <string name="lbl_graphs">Suporte</string>
+    <string name="lbl_tnumbers">Log out</string>
+    <string name="action_ok">Ok</string>
+    <string name="action_cancelar">Cancelar</string>
+    <string name="title_activity_act_navigation">Act_navigation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
